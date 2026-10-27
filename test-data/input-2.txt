@@ -1,0 +1,5 @@
+#  üres egy store
+# primary-ben 2 torpedo, secondary-ban 0
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # a primary-bol tuzel
+TORPEDO,SINGLE  # a primary-bol tuzel
