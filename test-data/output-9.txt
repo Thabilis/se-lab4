@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- ALL
+SUCCESS  # <- az egyik üres, de attól még lövönk

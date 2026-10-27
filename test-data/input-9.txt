@@ -1,0 +1,4 @@
+# JaCoCo lefedettséghez, ALL lövés, lövés, majd az egyik üres lesz
+GT4500,2,0,1,0
+TORPEDO,ALL  # kilőjük az összeset
+TORPEDO,ALL  # üres az egyik 
