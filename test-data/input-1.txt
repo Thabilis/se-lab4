@@ -1,0 +1,4 @@
+# A torpedók felváltva tüzelése
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # a primary-bol tuzel
+TORPEDO,SINGLE  # a secondary-bol tuzel

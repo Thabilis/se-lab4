@@ -1,0 +1,4 @@
+# JaCoCo lefedettséghez, ALL lövés, primary, secondary üres
+GT4500,1,0,1,0
+TORPEDO,ALL  # kilőjük az összeset
+TORPEDO,ALL  # üres az összes 
